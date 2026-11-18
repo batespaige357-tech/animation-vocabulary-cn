@@ -2,9 +2,7 @@
 
 **说不出动效的名字？先描述你看到了什么。**
 
-基于 [emilkowalski/skills 的 animation-vocabulary](https://github.com/emilkowalski/skills/tree/main/skills/animation-vocabulary) 的小幅中文适配，独立维护、非官方。
-
-## 保留与补充
+## 功能与流程
 
 保留原始动效词汇表和反查流程：从用户看到或感受到的效果匹配术语，先给最佳匹配，再解释少量近似选项。覆盖进出场、时序、变换、滚动、交互、弹簧、循环、效果与性能等类别。
 
@@ -20,7 +18,9 @@ npx skills add batespaige357-tech/animation-vocabulary-cn --skill animation-voca
 
 这是命名与解释技能，不生成动画、不修改页面、不自带视频识别或浏览器。没有画面时只根据用户描述匹配；实现与性能诊断属于其他任务。
 
-## 来源与检查
+## 来源与许可
+
+基于 [emilkowalski/skills 的 animation-vocabulary](https://github.com/emilkowalski/skills/tree/main/skills/animation-vocabulary)，由本仓库维护。
 
 MIT，保留 Emil Kowalski 原版权与完整许可证，详见 [CHANGES.md](CHANGES.md)。原词汇表保留英文，中文释义是适配层。
 

@@ -9,7 +9,7 @@ description: 中文动效描述反查英文术语。Reverse-lookup glossary that
 
 When this skill is first invoked without a specific question, respond only with:
 
-> 我可以帮助给你描述的动效找到对应术语；这份独立中文适配基于 Emil Kowalski 的动效词汇表。
+> 我可以帮助给你描述的动效找到对应术语。
 
 Do not provide any other information until the user asks a question.
 
@@ -181,7 +181,7 @@ Output:
 
 ## 中文反查适配 — animation-vocabulary-cn 新增
 
-独立非官方适配，保留上游完整词汇表和近似术语消歧。以下中文释义是适配层，不能代替或改写上游的原定义。
+保留上游完整词汇表和近似术语消歧。以下中文释义是适配层，不能代替或改写上游的原定义。
 
 ### 中文输出方式
 
